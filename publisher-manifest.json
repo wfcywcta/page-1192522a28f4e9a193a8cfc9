@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a69bd80a62fabe7b50d32fd7",
+  "owner": "wfcywcta",
+  "repo": "page-1192522a28f4e9a193a8cfc9",
+  "title": "HEYPIG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1192522a28f4e9a193a8cfc9",
+      "a": "HEYPIG",
+      "b": "2027官方最新地址导航",
+      "entity": "HEYPIG",
+      "brand": "HEYPIG",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1a8ed1fdc6b7109efca2b53d238f231c0a159c2fc8f44badb835676be00efc34",
+      "content": {
+        "primary_entity": "HEYPIG",
+        "keyword1": "HEYPIG",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅选择。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备、IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备并含企业定制路由。年付分别为 ¥150、¥350 与 ¥850，可按设备数量、流量需求与订阅周期挑选合适方案。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "HEYPIG 是面向需要稳定跨境网络连接用户的服务品牌，围绕日常浏览、流媒体观看与游戏加速提供多档订阅。基础版适合单人或少量设备，旗舰版覆盖家庭多设备与游戏专线需求，团队版面向小团队与企业级路由配置。",
+          "AI_VISUAL_TITLE": "HEYPIG 订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付享更划算的月均价格",
+          "AI_FEATURES_TITLE": "核心订阅特点",
+          "AI_FEATURES_INTRO": "从实际使用场景出发，了解套餐如何匹配你的设备与流量需要。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，可按手机、电脑与平板总数选择。",
+          "AI_FEATURE_TITLE_2": "按流量与周期搭配",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB；年付比月付更省，适合长期使用者。",
+          "AI_FEATURE_TITLE_3": "按用途分层优化",
+          "AI_FEATURE_TEXT_3": "旗舰版及团队版提供更丰富的节点与专线资源，适合流媒体和游戏加速需求。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备使用各自适配的订阅客户端，导入订阅链接即可完成配置，按客户端文档操作即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对照三档套餐的流量、设备数与权益，选择符合日常用量的方案。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "从选择套餐到导入订阅，按步骤完成设置即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认设备与客户端",
+          "AI_STEP_TEXT_2": "记录需要连接的设备型号与系统，匹配该平台可用的订阅客户端类型。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档说明添加订阅链接或配置信息，保存后即可连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备数，按需选择并完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 到 3 台设备、每月 100GB 以内的轻度使用；旗舰版支持 5 台设备与 300GB 流量，适合多设备与流媒体需求；团队版面向 20 台设备、1000GB 的企业场景。",
+          "AI_FAQ_ANSWER_2": "支持主流桌面与移动客户端的订阅导入，不同客户端配置方式略有差异。具体操作可参考对应客户端的配置文档，按提示粘贴订阅链接即可。",
+          "AI_FAQ_ANSWER_3": "按年付费比按月付费节省约两个月费用，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用选择年付更划算。",
+          "AI_FAQ_ANSWER_4": "套餐支持设备数量不同：基础版 3 台，旗舰版 5 台，团队版 20 台。可根据常用设备数量选择对应档位，超出时升级套餐即可。",
+          "AI_FAQ_ANSWER_5": "套餐之间可以升级，从基础版切换到旗舰版或团队版时，按新套餐计费规则补差价即可，具体以订阅页面显示的升级选项为准。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "HEYPIG 支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "按年付费比按月付费便宜多少？",
+          "AI_FAQ_QUESTION_4": "一个套餐最多可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_5": "可以从基础版升级到旗舰版吗？",
+          "AI_FAQ_TITLE": "关于 HEYPIG 套餐的常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pxymm.cn",
+    "host": "pxymm.cn"
+  },
+  "file_hashes": {
+    "index.html": "b194ba55d7e6777db050729b8e15fe1fa0bb28e55706c5c7e33bfeaf9f5ebbed",
+    "sitemap.xml": "daeeda0c46fb1feb1e68c5229b0ad67d5acaa6643ba8c83ec3ee38548fa45c15",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e0a61625587349cff1f158fdf41bb7c001ad3286570a08b5ddf165a6524574a0",
+    "robots.txt": "c451ca8415b3defe2486d8399be08861a48d243191e31285cb2ee5120e974271",
+    "139583f3dc3563d0a78cf7282fb6d07f.txt": "4969641f6ce3d522b7b155011d686872db1c7c30a5a89130fab672b4d4cc98a9"
+  },
+  "revision": "1dc86537450d89f9d47ee9ddf7d768e03d52b319ffae24f999fb3e77c3bf1581"
+}
